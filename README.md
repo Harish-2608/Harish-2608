@@ -1,5 +1,5 @@
 # HI I'm Harish
-# A passionate security researcher and App developer
+# A passionate security researcher and Python programmer
 
 # 💫 About Me:
 I'm currently learning Networking,Penetration Testing,CEH.....<br>Ask me about Networking,Bugs....
