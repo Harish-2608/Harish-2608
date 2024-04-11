@@ -2,7 +2,7 @@
 # A passionate security researcher and Python programmer
 
 # 💫 About Me:
-I'm currently learning Networking,Penetration Testing,CEH.....<br>Ask me about Networking,Bugs....
+I'm currently learning Networking,Penetration Testing,Defensive security.....
 
 
 # 💻 Tech Stack:
