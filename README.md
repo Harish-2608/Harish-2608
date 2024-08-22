@@ -1,7 +1,5 @@
-[twitter]: https://www.twitter.com/Srinivas124
-[linkedin]: https://www.linkedin.com/in/srinivas-r-0a7b6b225/
-[gmail]: mailto:nivasniyas24@gmail.com
-[kaggle]: https://www.kaggle.com/nivas7
+[linkedin]: https://in.linkedin.com/in/haris-ragavendra-k-b41b1725b
+[gmail]: mailto:kdharisragavendra@gmail.com
 
 
 `Hi, I'm Haris Ragavendra K.`
@@ -9,13 +7,10 @@
 <!-- <img align="right" alt="profile" width="500px" height="500px" ob  src="https://art.pixilart.com/c08557cf585b.gif"  /> -->
 
 - 🔭 I’m currently studying *BE ~ Computer Science*
-- 🌱 I’m currently learning `OWASP` ,`Python` and `Threat Intelligence`
+- 🌱 I’m currently learning `OWASP` ,`Vulnerability assessment` and `Networking`
 - ⚡ 2024 goals - improve my study culture and learn time management (among other things)
-- 🗒️ here is [my blog](https://Nivas7.github.io) and [my resume](https://Nivas7.github.io/resume/index.html)
 
 ### `social links:`
-[<img align="left" alt="kaggle" width="22px" src="https://www.iconfinder.com/icons/4519136/download/svg/4096" />][kaggle]
-[<img align="left" alt="twitter" width="22px" src="https://www.iconfinder.com/icons/317720/download/png/64" />][twitter]
 [<img align="left" alt="linkedin" width="22px" src="https://www.iconfinder.com/icons/4202085/download/png/64" />][linkedin]
 [<img align="left" alt="email" width="22px" src="https://www.iconfinder.com/icons/4202011/download/svg/4096" />][gmail]
 <br>
@@ -24,18 +19,18 @@
 
 ```yaml
           <img alt="github lang stats" src="
-languages: Python, C, bash, javascript
-familiar Web dev: React, Next, Backend, React Query
-  - other: flask, fastapi, gnu makefile
+languages: Python, C, bash, javascript..
+security practices: OWASP,Network security,penetration testing,IAM..
+Tools: Burpsuite,Wireshark,Nmap,Sqlmap..
   
-OS: Kali;)
+OS: Kali deb(fam);)
 editors: Vim, neovim
 ```
 
 <p align="center">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=nivas7&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Harish-2608&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" />
 </p>
 
 <p align="center">
-          <img alt="github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivas7&layout=compact&theme=dracula&hide_border=true"/>
+          <img alt="github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-2608&layout=compact&theme=dracula&hide_border=true"/>
 </p> 
