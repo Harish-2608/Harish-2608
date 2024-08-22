@@ -18,7 +18,6 @@
 ### `languages and tools:`
 
 ```yaml
-          <img alt="github lang stats" src="
 languages: Python, C, bash, javascript..
 security practices: OWASP,Network security,penetration testing,IAM..
 Tools: Burpsuite,Wireshark,Nmap,Sqlmap..
