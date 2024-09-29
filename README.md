@@ -19,7 +19,7 @@
 
 ```yaml
 languages: Python, C, bash, javascript..
-security practices: OWASP,Network security,penetration testing,IAM..
+security practices: OWASP,Network security,penetration testing,Vulnerability assessment.
 Tools: Burpsuite,Wireshark,Nmap,Sqlmap..
   
 OS: Kali deb(fam);)
