@@ -4,7 +4,7 @@
 
 `Hi, I'm Haris Ragavendra K.`
 
-<img align="right" alt="profile" width="500px" height="500px" ob  src="https://art.pixilart.com/c08557cf585b.gif"  /> 
+
 
 - 🔭 I’m currently studying *BE ~ Computer Science*
 - 🌱 I’m currently learning `OWASP` ,`Vulnerability assessment` and `Networking`
